@@ -97,7 +97,7 @@ Adjustable in the code:
 
 ## Author
 
-[Your Name] - [GitHub Profile Link]
+[Durga Prasad] - [https://github.com/Durga45t]
 
 ---
 
